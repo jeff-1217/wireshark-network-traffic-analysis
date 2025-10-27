@@ -1,4 +1,4 @@
-# Wireshark Network Traffic Analysis
+ Wireshark Network Traffic Analysis
 
 ## Overview
 
@@ -34,18 +34,3 @@ This repository contains a comprehensive network traffic analysis project using 
 3. Review the analysis report (PDF) for context and findings
 4. Explore the packet capture to understand network behavior and patterns
 
-## Key Findings
-
-Refer to the detailed PDF report for comprehensive analysis results, including:
-- Traffic volume and patterns
-- Protocol distribution
-- Source and destination analysis
-- Security considerations
-
-## Tools Used
-- **Wireshark** - Network protocol analyzer
-- Packet capture and deep inspection tools
-
-## About
-
-This project demonstrates practical network traffic analysis skills using industry-standard tools. The analysis focuses on understanding network behavior, identifying patterns, and extracting meaningful insights from packet-level data.
